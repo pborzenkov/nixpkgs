@@ -880,6 +880,7 @@
   ./services/networking/nebula.nix
   ./services/networking/netbird.nix
   ./services/networking/networkmanager.nix
+  ./services/networking/netns.nix
   ./services/networking/nextdns.nix
   ./services/networking/nftables.nix
   ./services/networking/ngircd.nix
